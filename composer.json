@@ -1,7 +1,7 @@
 {
 	"autoload": {
 		"psr-4": {
-			"jpuck\\nstest\\": "src/"
+			"scratchers\\nstest\\": "src/"
 		}
 	}
 }
