@@ -1,3 +1,5 @@
+[Why am I getting PHP Fatal error: Uncaught Error: Class 'MyClass' not found?][2]
+
 This works:
 ```php
     class MyClass {
@@ -100,6 +102,6 @@ Don't forget the autoloader.
     }
 ```
   [1]: https://github.com/scratchers/nstest
-
+  [2]:http://stackoverflow.com/q/39989977/4233593
 
 
