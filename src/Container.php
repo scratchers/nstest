@@ -1,6 +1,5 @@
 <?php
 namespace scratchers\nstest;
-require __DIR__.'/../vendor/autoload.php';
 
 class Container {
 	static protected $registry = [];
